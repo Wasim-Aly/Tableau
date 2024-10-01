@@ -1,7 +1,10 @@
 # Tableau
 
 Tableau Data Visualization Project
+
+
 Project Description
+
 Provide a brief overview of the project, explaining its purpose. Highlight the data visualization techniques used in Tableau and the insights derived from the data. Mention key areas of focus such as business analytics, interactive dashboards, or storytelling with data.
 
 Table of Contents (Optional)
